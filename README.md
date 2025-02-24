@@ -1,0 +1,1 @@
+This is a fun and interactive game created using Python and the Pygame library. The game is designed to provide an exciting experience for users, featuring unique gameplay mechanics, intuitive controls, and engaging visuals.
